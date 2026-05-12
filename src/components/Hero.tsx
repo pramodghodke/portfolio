@@ -151,7 +151,7 @@ export default function Hero() {
         >
           <Image
             src="/normal.png"
-            alt="Harshal Madgulkar - MERN Stack Developer Portrait"
+            alt="Pramod Ghodke - MERN Stack Developer Portrait"
             fill
             priority
             className="object-cover rounded-xl"
@@ -170,7 +170,7 @@ export default function Hero() {
             >
               <Image
                 src="/robotic.png"
-                alt="Futuristic developer illustration of Harshal Madgulkar"
+                alt="Futuristic developer illustration of Pramod Ghodke"
                 fill
                 className="object-cover rounded-xl"
               />

@@ -4,6 +4,6 @@ export default function robots() {
             userAgent: "*",
             allow: "/",
         },
-        sitemap: "https://harshalmadgulkar.live/sitemap.xml",
+        sitemap: "https://pramodghodke.vercel.app/sitemap.xml",
     };
 }

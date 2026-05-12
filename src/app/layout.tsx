@@ -45,8 +45,8 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              name: "Harshal Madgulkar",
-              url: "https://harshalmadgulkar.live",
+              name: "Pramod Ghodke",
+              url: "https://pramodghodke.vercel.app",
               jobTitle: "Full Stack Developer (React.js, TypeScript, Node.js)",
               address: {
                 "@type": "PostalAddress",
@@ -54,12 +54,12 @@ export default function RootLayout({
                 addressCountry: "India",
               },
               sameAs: [
-                "https://github.com/harshalmadgulkar",
-                "https://www.linkedin.com/in/harshal-madgulkar/",
+                "https://github.com/pramodghodke",
+                "https://www.linkedin.com/in/pramodghodke/",
               ],
               mainEntityOfPage: {
                 "@type": "WebPage",
-                "@id": "https://harshalmadgulkar.live",
+                "@id": "https://pramodghodke.vercel.app",
               },
 
               hasPart: [
@@ -69,7 +69,7 @@ export default function RootLayout({
                   url: "https://www.linkedin.com/pulse/stop-redefining-your-interfaces-6-typescript-utility-types-madgulkar-jj2af/",
                   author: {
                     "@type": "Person",
-                    name: "Harshal Madgulkar",
+                    name: "Pramod Ghodke",
                   },
                   publisher: {
                     "@type": "Organization",
@@ -91,16 +91,16 @@ export default function RootLayout({
 // SEO Metadata
 export const metadata = {
   title: {
-    default: "Harshal Madgulkar | MERN Stack Developer",
-    template: "%s | Harshal Madgulkar",
+    default: "Pramod Ghodke | Senior Reactjs Developer",
+    template: "%s | Pramod Ghodke",
   },
-  description: "Harshal Madgulkar is a Pune-based MERN Stack Developer with 2+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
+  description: "Pramod Ghodke is a Pune-based MERN Stack Developer with 3.5+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
 
   openGraph: {
-    title: "Harshal Madgulkar | MERN Stack Developer",
-    description: "Harshal Madgulkar is a Pune-based MERN Stack Developer with 2+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
-    url: "https://harshalmadgulkar.live",
-    siteName: "Harshal Madgulkar Portfolio",
+    title: "Pramod Ghodke | MERN Stack Developer",
+    description: "Pramod Ghodke is a Pune-based MERN Stack Developer with 2+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
+    url: "https://pramodghodke.vercel.app",
+    siteName: "Pramod Ghodke Portfolio",
     type: "website",
     images: [
       {
@@ -113,8 +113,8 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Harshal Madgulkar | MERN Stack Developer",
-    description: "Harshal Madgulkar is a Pune-based MERN Stack Developer with 2+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
+    title: "pramod Ghodke | MERN Stack Developer",
+    description: "pramod Ghodke is a Pune-based MERN Stack Developer with 3.5+ years of experience building scalable, high-performance full-stack web applications using React.js, TypeScript, Node.js, Express.js & MongoDB. Delivered large-scale municipal projects for Pimpri Chinchwad Municipal Corporation.",
     images: ["/og-image.png"],
   },
 };

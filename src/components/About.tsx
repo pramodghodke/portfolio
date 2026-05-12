@@ -132,8 +132,8 @@ export default function About() {
               <div className="flex px-6 py-4 gap-3 items-center rounded-xl bg-white/5 border border-white/10 uppercase tracking-widest text-md hover:bg-white/10 transition text-center">
                 <Download />
                 <a
-                  href="/Harshal_Madgulkar_Resume_7559207299.pdf"
-                  download="Harshal_Madgulkar_Resume_7559207299.pdf">
+                  href="/Pramod_Ghodke_Resume_7249456632.pdf"
+                  download="Pramod_Ghodke_Resume_7249456632.pdf">
                   Resume 
                 </a>
               </div>
@@ -162,7 +162,7 @@ export default function About() {
               href="/Pramod_Ghodke_Resume_7249456632.pdf"
               target="_blank"
               rel="noopener noreferrer"
-              // download="Harshal_Madgulkar_Resume_7559207299.pdf"
+              // download="Pramod_Ghodke_Resume_7249456632.pdf"
               className="hidden md:flex gap-4 items-center px-10 py-6 rounded-xl bg-white/5 border border-white/10 uppercase 
               tracking-widest text-sm hover:bg-white/10 transition"
             >

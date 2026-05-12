@@ -62,7 +62,7 @@ export default function Footer() {
 
           {/* MERN BRANDING TAGLINE */}
           <p className="text-sm font-medium text-orange-400 tracking-widest uppercase">
-            Reactjs Developer
+            Senior Reactjs Developer
           </p>
 
           {/* COPYRIGHT */}
